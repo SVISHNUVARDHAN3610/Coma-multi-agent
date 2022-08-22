@@ -1,4 +1,3 @@
-from importlib.metadata import requires
 import os
 import sys
 sys.path.append('./')
